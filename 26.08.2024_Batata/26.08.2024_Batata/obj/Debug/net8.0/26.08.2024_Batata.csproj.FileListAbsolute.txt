@@ -1,0 +1,14 @@
+C:\Users\24111185\source\repos\26.08.2024_Batata\26.08.2024_Batata\bin\Debug\net8.0\26.08.2024_Batata.exe
+C:\Users\24111185\source\repos\26.08.2024_Batata\26.08.2024_Batata\bin\Debug\net8.0\26.08.2024_Batata.deps.json
+C:\Users\24111185\source\repos\26.08.2024_Batata\26.08.2024_Batata\bin\Debug\net8.0\26.08.2024_Batata.runtimeconfig.json
+C:\Users\24111185\source\repos\26.08.2024_Batata\26.08.2024_Batata\bin\Debug\net8.0\26.08.2024_Batata.dll
+C:\Users\24111185\source\repos\26.08.2024_Batata\26.08.2024_Batata\bin\Debug\net8.0\26.08.2024_Batata.pdb
+C:\Users\24111185\source\repos\26.08.2024_Batata\26.08.2024_Batata\obj\Debug\net8.0\26.08.2024_Batata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24111185\source\repos\26.08.2024_Batata\26.08.2024_Batata\obj\Debug\net8.0\26.08.2024_Batata.AssemblyInfoInputs.cache
+C:\Users\24111185\source\repos\26.08.2024_Batata\26.08.2024_Batata\obj\Debug\net8.0\26.08.2024_Batata.AssemblyInfo.cs
+C:\Users\24111185\source\repos\26.08.2024_Batata\26.08.2024_Batata\obj\Debug\net8.0\26.08.2024_Batata.csproj.CoreCompileInputs.cache
+C:\Users\24111185\source\repos\26.08.2024_Batata\26.08.2024_Batata\obj\Debug\net8.0\26.08.2024_Batata.dll
+C:\Users\24111185\source\repos\26.08.2024_Batata\26.08.2024_Batata\obj\Debug\net8.0\refint\26.08.2024_Batata.dll
+C:\Users\24111185\source\repos\26.08.2024_Batata\26.08.2024_Batata\obj\Debug\net8.0\26.08.2024_Batata.pdb
+C:\Users\24111185\source\repos\26.08.2024_Batata\26.08.2024_Batata\obj\Debug\net8.0\26.08.2024_Batata.genruntimeconfig.cache
+C:\Users\24111185\source\repos\26.08.2024_Batata\26.08.2024_Batata\obj\Debug\net8.0\ref\26.08.2024_Batata.dll
