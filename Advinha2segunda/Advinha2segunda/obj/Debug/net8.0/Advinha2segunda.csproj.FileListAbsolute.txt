@@ -1,0 +1,14 @@
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\bin\Debug\net8.0\Advinha2segunda.exe
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\bin\Debug\net8.0\Advinha2segunda.deps.json
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\bin\Debug\net8.0\Advinha2segunda.runtimeconfig.json
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\bin\Debug\net8.0\Advinha2segunda.dll
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\bin\Debug\net8.0\Advinha2segunda.pdb
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\Advinha2segunda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\Advinha2segunda.AssemblyInfoInputs.cache
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\Advinha2segunda.AssemblyInfo.cs
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\Advinha2segunda.csproj.CoreCompileInputs.cache
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\Advinha2segunda.dll
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\refint\Advinha2segunda.dll
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\Advinha2segunda.pdb
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\Advinha2segunda.genruntimeconfig.cache
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\ref\Advinha2segunda.dll

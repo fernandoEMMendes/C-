@@ -1,0 +1,14 @@
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\bin\Debug\net8.0\SisteminhaRPG.exe
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\bin\Debug\net8.0\SisteminhaRPG.deps.json
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\bin\Debug\net8.0\SisteminhaRPG.runtimeconfig.json
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\bin\Debug\net8.0\SisteminhaRPG.dll
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\bin\Debug\net8.0\SisteminhaRPG.pdb
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\SisteminhaRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\SisteminhaRPG.AssemblyInfoInputs.cache
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\SisteminhaRPG.AssemblyInfo.cs
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\SisteminhaRPG.csproj.CoreCompileInputs.cache
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\SisteminhaRPG.dll
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\refint\SisteminhaRPG.dll
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\SisteminhaRPG.pdb
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\SisteminhaRPG.genruntimeconfig.cache
+C:\Users\24111185\source\repos\Advinha2segunda\Advinha2segunda\obj\Debug\net8.0\ref\SisteminhaRPG.dll

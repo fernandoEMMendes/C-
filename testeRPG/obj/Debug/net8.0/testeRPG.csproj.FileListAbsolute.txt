@@ -1,0 +1,14 @@
+C:\Users\24111185\source\repos\testeRPG\bin\Debug\net8.0\testeRPG.exe
+C:\Users\24111185\source\repos\testeRPG\bin\Debug\net8.0\testeRPG.deps.json
+C:\Users\24111185\source\repos\testeRPG\bin\Debug\net8.0\testeRPG.runtimeconfig.json
+C:\Users\24111185\source\repos\testeRPG\bin\Debug\net8.0\testeRPG.dll
+C:\Users\24111185\source\repos\testeRPG\bin\Debug\net8.0\testeRPG.pdb
+C:\Users\24111185\source\repos\testeRPG\obj\Debug\net8.0\testeRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24111185\source\repos\testeRPG\obj\Debug\net8.0\testeRPG.AssemblyInfoInputs.cache
+C:\Users\24111185\source\repos\testeRPG\obj\Debug\net8.0\testeRPG.AssemblyInfo.cs
+C:\Users\24111185\source\repos\testeRPG\obj\Debug\net8.0\testeRPG.csproj.CoreCompileInputs.cache
+C:\Users\24111185\source\repos\testeRPG\obj\Debug\net8.0\testeRPG.dll
+C:\Users\24111185\source\repos\testeRPG\obj\Debug\net8.0\refint\testeRPG.dll
+C:\Users\24111185\source\repos\testeRPG\obj\Debug\net8.0\testeRPG.pdb
+C:\Users\24111185\source\repos\testeRPG\obj\Debug\net8.0\testeRPG.genruntimeconfig.cache
+C:\Users\24111185\source\repos\testeRPG\obj\Debug\net8.0\ref\testeRPG.dll
